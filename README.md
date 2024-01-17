@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hello, my name is Samet and I am a Backend Developer.<br>I am committed to continuously improving my skills in this field and am always<br>looking for opportunities to learn and grow. With my strong knowledge of programming<br>languages and development tools, I am able to develop robust and scalable<br>applications that meet the needs of businesses and end-users. I am passionate<br>about creating innovative solutions and enjoy collaborating with others to achieve<br>common goals. I am excited to explore new technologies and take on new challenges<br>to further enhance my skills as a Backend Developer.
+
 
 
 ## 🌐 Socials:
@@ -16,11 +15,4 @@ Hello, my name is Samet and I am a Backend Developer.<br>I am committed to conti
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SametHaymana&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=SametHaymana&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/samethym) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
